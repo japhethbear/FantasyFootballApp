@@ -7,12 +7,12 @@ namespace FantasyFootballApp.Models
         public new int Id { get; set; }
         public string? FirstName { get; set; }
         public string? LastName { get; set; }
-        public string? Email { get; set; }
+        public new string? Email { get; set; }
         public string? Password { get; set; }
         // Other properties and methods...
 
         // Navigation property for Team
-        public Team Team { get; set; }
+        // public Team Team { get; set; }
 
 
         // Constructor

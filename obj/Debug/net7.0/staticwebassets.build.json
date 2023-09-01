@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7sAllca7YVU1J3s0Z+mUcgAw4prt8IBa3PbUgrfSek4=",
+  "Hash": "xworOt2K8FCybry8k/kv7vAdbWbRoEvgZtf6cApRWTM=",
   "Source": "FantasyFootballApp",
   "BasePath": "_content/FantasyFootballApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FantasyFootballApp/wwwroot",
       "Source": "FantasyFootballApp",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/obj/Debug/net7.0/scopedcss/bundle/FantasyFootballApp.styles.css",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/scopedcss/bundle/FantasyFootballApp.styles.css",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "FantasyFootballApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/obj/Debug/net7.0/scopedcss/bundle/FantasyFootballApp.styles.css"
+      "OriginalItemSpec": "/Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/scopedcss/bundle/FantasyFootballApp.styles.css"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/obj/Debug/net7.0/scopedcss/projectbundle/FantasyFootballApp.bundle.scp.css",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/scopedcss/projectbundle/FantasyFootballApp.bundle.scp.css",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "FantasyFootballApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/obj/Debug/net7.0/scopedcss/projectbundle/FantasyFootballApp.bundle.scp.css"
+      "OriginalItemSpec": "/Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/scopedcss/projectbundle/FantasyFootballApp.bundle.scp.css"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/css/open-iconic/README.md",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/css/open-iconic/README.md",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/css/site.css",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/css/site.css",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/favicon.png",
+      "Identity": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/favicon.png",
       "SourceId": "FantasyFootballApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/wwwroot/",
+      "ContentRoot": "/Users/japhethbear/Projects/FantasyFootballApp/wwwroot/",
       "BasePath": "_content/FantasyFootballApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

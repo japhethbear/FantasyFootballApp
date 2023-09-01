@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FantasyFootballApp
 build_property.RootNamespace = FantasyFootballApp
-build_property.ProjectDir = /Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/
+build_property.ProjectDir = /Users/japhethbear/Projects/FantasyFootballApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp
+build_property.MSBuildProjectDirectory = /Users/japhethbear/Projects/FantasyFootballApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/App.razor]
+[/Users/japhethbear/Projects/FantasyFootballApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/Pages/Counter.razor]
+[/Users/japhethbear/Projects/FantasyFootballApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/Pages/FetchData.razor]
+[/Users/japhethbear/Projects/FantasyFootballApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/Pages/Index.razor]
+[/Users/japhethbear/Projects/FantasyFootballApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/Pages/Welcome.razor]
+[/Users/japhethbear/Projects/FantasyFootballApp/Pages/Welcome.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VsY29tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/Shared/SurveyPrompt.razor]
+[/Users/japhethbear/Projects/FantasyFootballApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/_Imports.razor]
+[/Users/japhethbear/Projects/FantasyFootballApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/Shared/MainLayout.razor]
+[/Users/japhethbear/Projects/FantasyFootballApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-4rwg1w7a35
 
-[/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/Shared/NavMenu.razor]
+[/Users/japhethbear/Projects/FantasyFootballApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-jpwxw4whfq
 
-[/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/Pages/Error.cshtml]
+[/Users/japhethbear/Projects/FantasyFootballApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/Pages/_Host.cshtml]
+[/Users/japhethbear/Projects/FantasyFootballApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -10,7 +10,7 @@ namespace FantasyFootballApp.Data
         }
 
         public DbSet<Manager> Managers { get; set; } // DbSet for your User entity
-        public DbSet<Team> Teams { get; set; }
+        // public DbSet<Team> Teams { get; set; }
         // Add other DbSet properties for other entities if needed
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

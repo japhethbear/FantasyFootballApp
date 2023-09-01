@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FantasyFootballApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4efca605a8fd641415b11a157e5f2bf74a54ca13")]
 [assembly: System.Reflection.AssemblyProductAttribute("FantasyFootballApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FantasyFootballApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

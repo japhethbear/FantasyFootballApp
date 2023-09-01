@@ -3791,11 +3791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/FantasyFootballApp.csproj",
+      "projectUniqueName": "/Users/japhethbear/Projects/FantasyFootballApp/FantasyFootballApp.csproj",
       "projectName": "FantasyFootballApp",
-      "projectPath": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/FantasyFootballApp.csproj",
+      "projectPath": "/Users/japhethbear/Projects/FantasyFootballApp/FantasyFootballApp.csproj",
       "packagesPath": "/Users/japhethbear/.nuget/packages/",
-      "outputPath": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/obj/",
+      "outputPath": "/Users/japhethbear/Projects/FantasyFootballApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/japhethbear/.nuget/NuGet/NuGet.Config"

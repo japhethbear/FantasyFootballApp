@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8KKohUpV9RpxCx/mCva9WLhVXuemm0Z5qMV64n5n+SB79ufIUAIny8C1ypXbiltHQPZGFaSFCtnXFkbFwwl4kw==",
+  "dgSpecHash": "dzX8hDjLtvf4TSCELkMDYaPtg4c2ylQDqgJh5eXcR4M99hn819d7rAwARvzzk5tdR/skO9JA5WrLGEmf3h8WGA==",
   "success": true,
-  "projectFilePath": "/Users/japhethbear/Projects/FantasyFootballParent/FantasyFootballApp/FantasyFootballApp.csproj",
+  "projectFilePath": "/Users/japhethbear/Projects/FantasyFootballApp/FantasyFootballApp.csproj",
   "expectedPackageFiles": [
     "/Users/japhethbear/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/japhethbear/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
