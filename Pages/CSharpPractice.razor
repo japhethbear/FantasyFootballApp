@@ -5,5 +5,15 @@
 <p>This is a Blazor component practicing C#.</p>
 
 @code {
-    
+    private int roll;
+
+    // On component initialization
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        Random dice = new Random();
+        roll = dice.Next(1, 7);
+    }
 }
+
+<p>Random Roll: @roll</p>
