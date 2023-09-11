@@ -111,9 +111,6 @@
 /Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/FantasyFootballApp.RazorAssemblyInfo.cache
 /Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/FantasyFootballApp.RazorAssemblyInfo.cs
 /Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/FantasyFootballApp.sourcelink.json
-/Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/FantasyFootballApp.dll
-/Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/refint/FantasyFootballApp.dll
-/Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/FantasyFootballApp.pdb
 /Users/japhethbear/Projects/FantasyFootballApp/bin/Debug/net7.0/appsettings.Development.json
 /Users/japhethbear/Projects/FantasyFootballApp/bin/Debug/net7.0/appsettings.json
 /Users/japhethbear/Projects/FantasyFootballApp/bin/Debug/net7.0/FantasyFootballApp.staticwebassets.runtime.json
@@ -205,5 +202,8 @@
 /Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/scopedcss/bundle/FantasyFootballApp.styles.css
 /Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/scopedcss/projectbundle/FantasyFootballApp.bundle.scp.css
 /Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/FantasyFootballApp.csproj.CopyComplete
+/Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/FantasyFootballApp.dll
+/Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/refint/FantasyFootballApp.dll
+/Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/FantasyFootballApp.pdb
 /Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/FantasyFootballApp.genruntimeconfig.cache
 /Users/japhethbear/Projects/FantasyFootballApp/obj/Debug/net7.0/ref/FantasyFootballApp.dll
